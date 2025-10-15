@@ -21,19 +21,18 @@ Built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
    ```bash
    git clone https://github.com/anubhawdwd/mindpocket-fe.git
    cd mindpocket-fe
-````
-
+   ```
 2. **Install dependencies**
 
    ```bash
    npm install
-   ```
+   
 
 3. **Run the development server**
 
    ```bash
    npm run dev
-   ```
+   
 
 4. Open your browser and visit:
    👉 **[http://localhost:5173](http://localhost:5173)**
@@ -93,5 +92,3 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 
 Built with ❤️ by [Anubhaw Dwivedi](https://github.com/anubhawdwd)
-
-```
